@@ -1,6 +1,6 @@
-# Wildfire Tracker
+# Forest Fire Detection and Tracking
 
-> This is a React app to track wildfires and plot them on a Google map.
+> This is a React app to track forest fires and plot them on a Google map.
 
 ## Usage
 
